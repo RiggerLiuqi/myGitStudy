@@ -1,0 +1,3 @@
+# myGitStudy
+git study
+mdTest
